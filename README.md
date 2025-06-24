@@ -79,3 +79,5 @@ Automated tax filings or financial disclosures
 Healthcare patient records (HIPAA-compliant formats
 
 I have used deepseek for guidance in writing the code.
+
+[task2 report.txt](https://github.com/user-attachments/files/20887171/task2.report.txt)
