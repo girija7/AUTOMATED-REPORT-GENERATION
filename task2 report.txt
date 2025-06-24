@@ -1,0 +1,22 @@
+Q1 2023 Sales Performance Report
+Generated on: 2023-11-15 14:30:45
+
+1. Summary Statistics
+Numerical Summary:
+Units_Sold: Mean=24.5, Max=49
+Unit_Price: Mean=54.32, Max=99.99
+Total_Sales: Mean=1325.42, Max=4899.51
+
+2. Sales by Region
+[Bar chart showing North, South, East, West sales comparison]
+
+3. Top Selling Products
+Product        Units Sold   Total Sales ($)
+-------------------------------------------
+Product A      1428          $78,542.12
+Product B      1205          $65,421.33
+Product C      982           $52,987.45
+Product D      875           $45,632.11
+
+4. Monthly Sales Trend
+[Line chart showing sales growth from Jan to Mar]
